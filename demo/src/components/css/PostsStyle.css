@@ -1,0 +1,18 @@
+.username{
+    color: deepskyblue;
+}
+.cardStyle{
+    border-radius: 10px !important;
+}
+.email{
+    font-size: 12px;
+    padding-left: 10px;
+    color: dimgray;
+    padding-right: 30px;
+}
+.titleStyle{
+    padding:0 20%;
+}
+.commentsBody{
+    background-color: gray;
+}
